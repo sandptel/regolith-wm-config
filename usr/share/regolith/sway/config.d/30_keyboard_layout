@@ -1,7 +1,7 @@
 ###############################################################################
 # Cycle Keyboard layout
 ###############################################################################
-
+swaynag_command nop
 
 ## Modify // Next Layout // <><Alt> BackSpace ##
 set_from_resource $wm.binding.next_layout wm.binding.next_layout Mod1+BackSpace

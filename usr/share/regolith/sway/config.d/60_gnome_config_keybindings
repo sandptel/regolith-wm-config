@@ -1,7 +1,7 @@
 ###############################################################################
 # System Management
 ###############################################################################
-
+swaynag_command nop
 ## Modify // Settings // <> c ##
 set_from_resource $wm.binding.settings wm.binding.settings c
 set_from_resource $wm.program.settings wm.program.settings gnome-control-center
